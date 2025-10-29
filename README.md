@@ -5,6 +5,6 @@ Solis Nature is a nature-centric travel platform that connects travelers with na
 Explore verified stays surrounded by nature and local culture at [Solis Nature](https://www.solisnature.com).
 
 ## Featured Destinations
-- [Best Nature Stays in Himachal](https://www.solisnature.com/stays-in-himachal)
-- [Stays in Kerala](https://www.solisnature.com/stays-in-kerala)
-- [Nature Stays in Goa](https://www.solisnature.com/stays-in-goa)
+- [Best Nature Stays in Himachal](https://solisnature.com/property/exploring?state_id=14)
+- [Stays in Kerala](https://solisnature.com/property/exploring?state_id=19))
+- [Nature Stays in Goa](https://solisnature.com/property/exploring?state_id=11)
